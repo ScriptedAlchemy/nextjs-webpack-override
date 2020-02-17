@@ -8,7 +8,8 @@
     "lint:js": "eslint --cache .",
     "lint": "npm-run-all -l -p \"lint:**\"",
     "semantic-release": "semantic-release",
-    "commit": "npx git-cz"
+    "commit": "npx git-cz",
+    "test": "yarn lint"
   },
   "author": "Zack Jackson <zackary.l.jackson@gmail.com> (https://github.com/ScriptedAlchemy)",
   "files": [
