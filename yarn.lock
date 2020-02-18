@@ -214,7 +214,7 @@
   dependencies:
     "@types/node" ">= 8"
 
-"@semantic-release/changelog@^5.0.0":
+"@semantic-release/changelog@5.0.0":
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/@semantic-release/changelog/-/changelog-5.0.0.tgz#3db43fc15d78267c5b3f3f9dd311ddb2a0f8596b"
   integrity sha512-A1uKqWtQG4WX9Vh4QI5b2ddhqx1qAJFlbow8szSNiXn+TaJg15LSUA9NVqyu0VxQFy3hKUJYwbBHGRXCxCy2fg==
@@ -242,7 +242,7 @@
   resolved "https://registry.yarnpkg.com/@semantic-release/error/-/error-2.2.0.tgz#ee9d5a09c9969eade1ec864776aeda5c5cddbbf0"
   integrity sha512-9Tj/qn+y2j+sjCI3Jd+qseGtHjOAeg7dU2/lVcqIQ9TV3QDaDXDYXcoOHU+7o2Hwh8L8ymL4gfuO7KxDs3q2zg==
 
-"@semantic-release/git@^9.0.0":
+"@semantic-release/git@9.0.0":
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/@semantic-release/git/-/git-9.0.0.tgz#304c4883c87d095b1faaae93300f1f1e0466e9a5"
   integrity sha512-AZ4Zha5NAPAciIJH3ipzw/WU9qLAn8ENaoVAhD6srRPxTpTzuV3NhNh14rcAo8Paj9dO+5u4rTKcpetOBluYVw==
@@ -522,7 +522,7 @@
     "@types/events" "*"
     "@types/node" "*"
 
-"@webpack-contrib/eslint-config-webpack@^3.0.0":
+"@webpack-contrib/eslint-config-webpack@3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@webpack-contrib/eslint-config-webpack/-/eslint-config-webpack-3.0.0.tgz#28a1a05e7889aa54f83e451ea6fc43ded821b039"
   integrity sha512-3f0dwuTZ1JZpnoGQ6tAKBWluZKZZBXr1ADoaOAbPiW0OvSN7o0wXFLGyfw6J+fW756xIkZLZ8JDYP5zInIRvBA==
@@ -819,7 +819,7 @@ aws4@^1.2.1, aws4@^1.8.0:
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.9.1.tgz#7e33d8f7d449b3f673cd72deb9abdc552dbe528e"
   integrity sha512-wMHVg2EOHaMRxbzgFJ9gtjOOCrI80OHLG14rxi28XwOW8ux6IiEbRCGGGqCtdAIg4FQCbW20k9RsT4y3gJlFug==
 
-babel-eslint@^10.0.3:
+babel-eslint@10.0.3:
   version "10.0.3"
   resolved "https://registry.yarnpkg.com/babel-eslint/-/babel-eslint-10.0.3.tgz#81a2c669be0f205e19462fed2482d33e4687a88a"
   integrity sha512-z3U7eMY6r/3f3/JB9mTsLjyxrv0Yb1zb8PCWCLpguxfCzBIZUwy23R1t/XKewP+8mEN2Ck8Dtr4q20z6ce6SoA==
@@ -1842,7 +1842,7 @@ eslint-module-utils@^2.4.1:
     debug "^2.6.9"
     pkg-dir "^2.0.0"
 
-eslint-plugin-import@^2.20.1:
+eslint-plugin-import@2.20.1:
   version "2.20.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.20.1.tgz#802423196dcb11d9ce8435a5fc02a6d3b46939b3"
   integrity sha512-qQHgFOTjguR+LnYRoToeZWT62XM55MBVXObHM6SKFd1VzDcX/vqT1kAz8ssqigh5eMj8qXcRoXXGZpPP6RfdCw==
@@ -4081,7 +4081,7 @@ npm-registry-fetch@^4.0.0, npm-registry-fetch@^4.0.2:
     npm-package-arg "^6.1.0"
     safe-buffer "^5.2.0"
 
-npm-run-all@^4.1.5:
+npm-run-all@4.1.5:
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/npm-run-all/-/npm-run-all-4.1.5.tgz#04476202a15ee0e2e214080861bff12a51d98fba"
   integrity sha512-Oo82gJDAVcaMdi3nuoKFavkIHBRVqQ1qvMb+9LHk/cF4P6B2m8aP04hGf7oL6wZ9BuGwX1onlLhpuoofSyoQDQ==
@@ -4771,7 +4771,7 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@^1.19.1:
+prettier@1.19.1:
   version "1.19.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
   integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
@@ -5347,7 +5347,7 @@ secure-keys@^1.0.0:
   resolved "https://registry.yarnpkg.com/secure-keys/-/secure-keys-1.0.0.tgz#f0c82d98a3b139a8776a8808050b824431087fca"
   integrity sha1-8MgtmKOxOah3aogIBQuCRDEIf8o=
 
-semantic-release@^17.0.4:
+semantic-release@17.0.4:
   version "17.0.4"
   resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-17.0.4.tgz#4ca739b2bf80f8ce5e49b05f12c15f49ca233d6d"
   integrity sha512-5y9QRSrZtdvACmlpX5DvEVsvFuKRDUVn7JVJFxPVLGrGofDf1d0M/+hA1wFmCjiJZ+VCY8bYaSqVqF14KCF9rw==
@@ -6288,7 +6288,7 @@ traverse@~0.6.6:
   resolved "https://registry.yarnpkg.com/traverse/-/traverse-0.6.6.tgz#cbdf560fd7b9af632502fed40f918c157ea97137"
   integrity sha1-y99WD9e5r2MlAv7UD5GMFX6pcTc=
 
-travis-github-status@^1.6.3:
+travis-github-status@1.6.3:
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/travis-github-status/-/travis-github-status-1.6.3.tgz#85436c999feca06182855ab9bbacdd25ae5326a2"
   integrity sha512-JTKwkDuW7Uy7/BBaBLZCL9b5IFL6d7ahL1BNvf1hnKhR/JrnIO7JGo1o5b22PN8wNd5TZDQP2NV4WIzqpbIFpQ==
