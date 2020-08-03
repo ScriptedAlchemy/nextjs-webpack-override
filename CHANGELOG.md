@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/ScriptedAlchemy/nextjs-webpack-override/compare/v1.0.1...v1.0.2) (2020-08-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency webpack-merge to v5 ([#21](https://github.com/ScriptedAlchemy/nextjs-webpack-override/issues/21)) ([05069e6](https://github.com/ScriptedAlchemy/nextjs-webpack-override/commit/05069e6ebc7e426ad19ac79cdcddf1073695a913))
+
 ## [1.0.1](https://github.com/ScriptedAlchemy/nextjs-webpack-override/compare/v1.0.0...v1.0.1) (2020-04-01)
 
 
